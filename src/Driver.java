@@ -5,7 +5,7 @@ import java.util.*;
 @author Ahmad Shaja AZIMI
 */
 public class Driver {
-    // An array list to store PopularName class for males
+    // An array list store PopularName class for males
     private static ArrayList<PopularName> maleNames = new ArrayList<PopularName>();
     // An array list to store popularName class for females
     private static ArrayList<PopularName> femaleNames = new ArrayList<PopularName>();
